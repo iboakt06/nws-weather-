@@ -57,8 +57,7 @@ kullanıcıların riskler hakkında hızlı şekilde bilgi edinmesini amaçlamak
 ## 🚀 Canlı Demo
 
 🔗 **Canlı Demo Linki:**  
-> (GitHub Pages / Netlify linkini buraya ekle)
-
+> https://iboakt06.github.io/nws-weather-/ adresinde yayında.
 ## 👨‍💻 Geliştirici
 
 - **İsim:** İbrahim Aktan  
@@ -66,3 +65,4 @@ kullanıcıların riskler hakkında hızlı şekilde bilgi edinmesini amaçlamak
 - **API Kaynağı:** National Weather Service (NWS)
 
 ---
+
